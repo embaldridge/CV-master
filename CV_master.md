@@ -113,5 +113,20 @@ Ecoinformatics
 
 
 ### Code
-####*GitHub repositories at https://github.com/embaldridge
+####GitHub repositories at https://github.com/embaldridge
 
+Awards & Honors
+--------------------------
+Fleharty Fellowship, Department of Biological Sciences, Fort Hays State University, $7,000
+
+Skills
+---------------------------
+###Databases
+SQL
+
+###Programming
+>Python (primary language)  
+Bash  
+Git  
+Visual Basic  
+R
