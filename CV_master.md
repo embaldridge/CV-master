@@ -84,23 +84,26 @@ Ecoinformatics
 ### Publications
 
 ### Presentations
-> Ecological Society of America 2011 Meeting, Austin, TX  
+> Ecological Society of America 2013 Meeting, Minneapolis MN   
+*Elita Baldridge* & Ethan White, organizers. Ignite session "Constraints in Ecology".
+
+> Ecological Society of America 2011 Meeting, Austin TX  
 *Elita Baldridge* & Rob Channell.  Testing the assumptions of the nested subset pattern.
 
->Southwestern Association of Naturalists 2010 Meeting, Junction, TX  
+>Southwestern Association of Naturalists 2010 Meeting, Junction TX  
 *Elita Baldridge* & Rob Channell.  Nested subset analysis: Examining geographic scale and abundance.
 
-> Kansas Ornithological Society 2009 Meeting, Hutchison, KS.  
+> Kansas Ornithological Society 2009 Meeting, Hutchison KS  
 *Elita Baldridge* & Rob Channell.  Effects of environmental conditions and distance from the geographic range center on the abundance of avian species.
 
 ### Posters
->Ecological Society of America 2012 Meeting, Portland, OR  
+>Ecological Society of America 2012 Meeting, Portland OR  
 *Elita Baldridge*, Nathan Myrhvold, and Morgan Ernest.  Macroecological life-history trait database for birds, mammals, and reptiles
 
->Research & Creative Activities Week, Fort Hays State University, April 2010  
+>Research & Creative Activities Week 2010, Fort Hays State University, Hays KS  
 *Elita Baldridge*.  Niche position, range position, and the distribution of abundance.
 
->Research & Creative Activities Week, Fort Hays State University, April 2009  
+>Research & Creative Activities Week 2009, Fort Hays State University, Hays KS  
 *Elita Baldridge*.  Nested Subsets: A pattern of community assembly.
  
 ### Data
