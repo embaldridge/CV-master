@@ -82,7 +82,9 @@ Commonness and rarity
 Ecoinformatics
 
 ### Publications
-White, E.P, *E. Baldridge*, Z.T. Brym, K.J. Locey, D.J. McGlinn, S.R. Supp. *in prep.* Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution, invited paper.
+White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. *in prep.* Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution, invited paper.
+
+*(+: Authors contributed equally to the work.)*
 
 
 ### Presentations
