@@ -8,8 +8,10 @@
 Education
 ---------
 > Utah State University, Logan UT; *in progress*: August 2010-present   
-*Ph.D. (Doctoral candidate), Ecology*  
-Advisor: Dr. Ethan White
+*Ph.D. (Doctoral candidate), Ecology* 
+Dissertation topic: The commonness of rarity: A macroecological perspective
+https://github.com/embaldridge/commonness-and-rarity  
+Advisor:  Dr. Ethan White
 
 >Fort Hays State University, Hays, KS; August 2008-May 2010  
 *M.S., Biology*  
@@ -76,9 +78,9 @@ Summary of Courses Taught
 Research
 --------------------------
 ### Research Interests
-> Macroecology  
+> Commonness and rarity  
 Community ecology  
-Commonness and rarity  
+Macroecology  
 Ecoinformatics
 
 ### Publications
@@ -135,12 +137,13 @@ Fleharty Fellowship, Department of Biological Sciences, Fort Hays State Universi
 
 Skills
 ---------------------------
-###Databases
-SQL
+###Database
+SQL- SQLite & postgres
 
 ###Programming
 >Python (primary language)  
 Bash  
-Git  
+Git
+Markdown  
 Visual Basic  
 R
