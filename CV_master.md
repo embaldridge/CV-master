@@ -82,7 +82,7 @@ Commonness and rarity
 Ecoinformatics
 
 ### Publications
-White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. *in press.* 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. *preprint: https://peerj.com/preprints/7.pdf*
+White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6(2): 1–10. *http://library.queensu.ca/ojs/index.php/IEE/article/view/4608/4898*
 
 *(+: Authors contributed equally to the work.)*
 
@@ -109,6 +109,13 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 
 >Research & Creative Activities Week 2009, Fort Hays State University, Hays KS  
 *Elita Baldridge*.  Nested Subsets: A pattern of community assembly.
+
+### Science Communication
+>Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
+*Elita Baldridge*. Four basic skills areas for a macroecologist. Jabberwocky Ecology, 19 August 2013. *http://jabberwocky.weecology.org/2013/08/19/four-basic-skill-areas-for-a-macroecologist-guest-post/*
+
+>Guest post, PhD(isabled), http://phdisabled.wordpress.com/
+*Elita Baldridge*. Developing a mystery illness in grad school. PhD(isabled), 5 November 2013. *http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/*
  
 ### Data
 ####*MiscAbundanceDB*: Community abundance data for a variety of mostly vertebrate taxa.  
