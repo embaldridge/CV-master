@@ -10,7 +10,7 @@ Education
 > Utah State University, Logan UT; *in progress*: August 2010-present   
 *Ph.D. (Doctoral candidate), Ecology* 
 Dissertation topic: The commonness of rarity: A macroecological perspective
-https://github.com/embaldridge/commonness-and-rarity  
+https://github.com/weecology/sad-comparison 
 Advisor:  Dr. Ethan White
 
 >Fort Hays State University, Hays, KS; August 2008-May 2010  
@@ -25,7 +25,7 @@ Professional Experience
 -------------------------
 <table>
     <tr>
-        <td>Fall 2012- present</td>
+        <td>Fall 2012- Fall 2014</td>
         <td>*Graduate teaching assistant*  
 Utah State University, Logan UT.</td>
     </tr>
@@ -61,7 +61,7 @@ Fort Hays State University, Hays KS</td>
 Summary of Courses Taught
 --------------------------
 ### Utah State University, Logan, UT
-####*Introductory Biology Laboratory, Biology 1610 and 1620*, one credit hour (Fall 2010, 2012, Spring 2011, 2013)  
+####*Introductory Biology Laboratory, Biology 1610 and 1620*, one credit hour (Fall 2010, 2012, 2014 Spring 2011, 2013)  
 > Taught introductory biology course for biology majors, covering evolution, basic genetics, diversity of life, and ecology.
 
 ### Fort Hays State University, Hays, KS
@@ -88,6 +88,8 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 
 *(+: Authors contributed equally to the work.)*
 
+*E. Baldridge*. 2010. Nested subsets, scale, and the distribution of abundance: A macroecological approach.  Master's thesis, Fort Hays State University. *http://files.figshare.com/1701415/Nested_Subsets_Master_s_Thesis.pdf*
+
 
 ### Presentations
 > Ecological Society of America 2013 Meeting, Minneapolis MN   
@@ -103,8 +105,14 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 *Elita Baldridge* & Rob Channell.  Effects of environmental conditions and distance from the geographic range center on the abundance of avian species.
 
 ### Posters
+>Gordon Research Conference 2014 "Unifying Ecology Across Scales", Boston MA
+Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernest. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles.
+*http://files.figshare.com/1587021/Ernest_Gordon_2014.pptx*
+
+
 >Ecological Society of America 2012 Meeting, Portland OR  
-*Elita Baldridge*, Nathan Myrhvold, and Morgan Ernest.  Macroecological life-history trait database for birds, mammals, and reptiles
+*Elita Baldridge*, Nathan Myrhvold, and Morgan Ernest.  Macroecological life-history trait database for birds, mammals, and reptiles.
+*http://files.figshare.com/98378/BaldridgeESA2012_poster.pdf*
 
 >Research & Creative Activities Week 2010, Fort Hays State University, Hays KS  
 *Elita Baldridge*.  Niche position, range position, and the distribution of abundance.
@@ -114,11 +122,18 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 
 ### Science Communication
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
-*Elita Baldridge*. Four basic skills areas for a macroecologist. Jabberwocky Ecology, 19 August 2013. *http://jabberwocky.weecology.org/2013/08/19/four-basic-skill-areas-for-a-macroecologist-guest-post/*
+*Elita Baldridge*. Technology for the win. Jabberwocky Ecology, 04 October 2014. *http://jabberwocky.weecology.org/*
+
+>Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
+*Elita Baldridge*. I am a graduate student. I have fibromyalgia. Jabberwocky Ecology, 13 January 2014. *http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/*
 
 >Guest post, PhD(isabled), http://phdisabled.wordpress.com/
 *Elita Baldridge*. Developing a mystery illness in grad school. PhD(isabled), 5 November 2013. *http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/*
  
+>Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
+*Elita Baldridge*. Four basic skills areas for a macroecologist. Jabberwocky Ecology, 19 August 2013. *http://jabberwocky.weecology.org/2013/08/19/four-basic-skill-areas-for-a-macroecologist-guest-post/*
+
+
 ### Data
 ####*MiscAbundanceDB*: Community abundance data for a variety of mostly vertebrate taxa.  
 >Available on figshare at the following links:    
