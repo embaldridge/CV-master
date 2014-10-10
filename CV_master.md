@@ -1,24 +1,22 @@
 <center>Elita Baldridge</center>
 ===========================================
-<center>elita.baldridge@weecology.org (816) 500-8436
-<center>Biology Department and the Ecology Center
-<center>Utah State University, Logan, Utah, 84322</center>
+<center>Email: [elita.baldridge@weecology.org](mailto:elita.baldridge@weecology.org)
+<center>Twitter: [@elitabaldridge](https://twitter.com/elitabaldridge)
+<center>Website: [http://weecology.org/people/elitabaldridge](http://weecology.org/people/elitabaldridge)
 
-
-Education
 ---------
-> Utah State University, Logan UT; *in progress*: August 2010-present   
+> Utah State University, Logan UT; *in progress*: 2010-present   
 *Ph.D. (Doctoral candidate), Ecology* 
-Dissertation topic: The commonness of rarity: A macroecological perspective
-https://github.com/weecology/sad-comparison 
+Dissertation topic: The commonness of rarity: A macroecological perspective  
+https://github.com/weecology/sad-comparison   
 Advisor:  Dr. Ethan White
 
->Fort Hays State University, Hays, KS; August 2008-May 2010  
+>Fort Hays State University, Hays, KS; 2010  
 *M.S., Biology*  
 Thesis title: Nested subsets, scale, and the distribution of abundance: A macroecological approach.  
 Advisor:  Dr. Rob Channell
 
->Kansas State University, Manhattan, KS; August 2003-December 2007  
+>Kansas State University, Manhattan, KS; 2007  
 *B.S., Wildlife Ecology and Management*
 
 Professional Experience
@@ -83,12 +81,18 @@ Community ecology
 Macroecology  
 Ecoinformatics
 
+###Publication and Research Product Impacts: 
+[Impact Story](http://weecology.org/people/elitabaldridge)  
+[Google Scholar](http://scholar.google.com/citations?user=BHY3EXUAAAAJ)
+
 ### Publications
-White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6(2): 1–10. *http://library.queensu.ca/ojs/index.php/IEE/article/view/4608/4898*
+[OA]: The published paper is open access (or at least free to read)
+[OA version]: Link to an open or free version of the paper if the published version is not open access
+White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6(2): 1–10. [OA] *http://library.queensu.ca/ojs/index.php/IEE/article/view/4608/4898* 
 
 *(+: Authors contributed equally to the work.)*
 
-*E. Baldridge*. 2010. Nested subsets, scale, and the distribution of abundance: A macroecological approach.  Master's thesis, Fort Hays State University. *http://files.figshare.com/1701415/Nested_Subsets_Master_s_Thesis.pdf*
+*E. Baldridge*. 2010. Nested subsets, scale, and the distribution of abundance: A macroecological approach.  Master's thesis, Fort Hays State University. [OA version]*http://files.figshare.com/1701415/Nested_Subsets_Master_s_Thesis.pdf* 
 
 
 ### Presentations
@@ -105,8 +109,8 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 *Elita Baldridge* & Rob Channell.  Effects of environmental conditions and distance from the geographic range center on the abundance of avian species.
 
 ### Posters
->Gordon Research Conference 2014 "Unifying Ecology Across Scales", Boston MA
-Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernest. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles.
+>Gordon Research Conference 2014 "Unifying Ecology Across Scales", Boston MA  
+Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernest. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles. Presented by Morgan Ernest  
 *http://files.figshare.com/1587021/Ernest_Gordon_2014.pptx*
 
 
@@ -156,9 +160,9 @@ Skills
 SQL- SQLite & postgres
 
 ###Programming
->Python (primary language)  
-Bash  
+>Python (primary language)
 Git
-Markdown  
+Markdown   
+Bash  
 Visual Basic  
 R
