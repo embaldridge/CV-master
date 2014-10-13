@@ -126,7 +126,7 @@ Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernes
 
 ### Science Communication
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
-*Elita Baldridge*. Technology for the win. Jabberwocky Ecology, 04 October 2014. *http://jabberwocky.weecology.org/*
+*Elita Baldridge*. How technology can help scientists with chronic illnesses (or Technology FTW!) Jabberwocky Ecology, 13 October 2014. *http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//*
 
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
 *Elita Baldridge*. I am a graduate student. I have fibromyalgia. Jabberwocky Ecology, 13 January 2014. *http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/*
