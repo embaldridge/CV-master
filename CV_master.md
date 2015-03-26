@@ -7,7 +7,7 @@
 ---------
 > Utah State University, Logan UT; *in progress*: 2010-present   
 *Ph.D. (Doctoral candidate), Ecology* 
-Dissertation topic: The commonness of rarity: A macroecological perspective  
+Dissertation topic: A data-intensive assessment of the species-abundance distribution  
 https://github.com/weecology/sad-comparison   
 Advisor:  Dr. Ethan White
 
