@@ -5,9 +5,9 @@
 <center>Website: [http://weecology.org/people/elitabaldridge](http://weecology.org/people/elitabaldridge)
 
 ---------
-> Utah State University, Logan UT; *in progress*: 2010-present   
-*Ph.D. (Doctoral candidate), Ecology* 
-Dissertation topic: A data-intensive assessment of the species-abundance distribution  
+> Utah State University, Logan UT; 2015   
+*Ph.D. Ecology* 
+Dissertation title: A data-intensive assessment of the species-abundance distribution  
 https://github.com/weecology/sad-comparison   
 Advisor:  Dr. Ethan White
 
@@ -96,6 +96,10 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 
 
 ### Presentations
+> Doctoral defense 2015, Logan UT
+*Elita Baldridge* "A data-intensive assessment of the species-abundance distribution."  <http://www.slideshare.net/embaldridge/a-dataintensive-assessment-of-the-species-abundance-distribution>  
+<https://www.youtube.com/watch?v=tkXUD0MSRCo>  
+
 > Ecological Society of America 2013 Meeting, Minneapolis MN   
 *Elita Baldridge* & Ethan White, organizers. Ignite session "Constraints in Ecology".
 
@@ -111,12 +115,12 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 ### Posters
 >Gordon Research Conference 2014 "Unifying Ecology Across Scales", Boston MA  
 Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernest. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles. Presented by Morgan Ernest  
-*http://files.figshare.com/1587021/Ernest_Gordon_2014.pptx*
+<http://files.figshare.com/1587021/Ernest_Gordon_2014.pptx>
 
 
 >Ecological Society of America 2012 Meeting, Portland OR  
 *Elita Baldridge*, Nathan Myrhvold, and Morgan Ernest.  Macroecological life-history trait database for birds, mammals, and reptiles.
-*http://files.figshare.com/98378/BaldridgeESA2012_poster.pdf*
+<http://files.figshare.com/98378/BaldridgeESA2012_poster.pdf>
 
 >Research & Creative Activities Week 2010, Fort Hays State University, Hays KS  
 *Elita Baldridge*.  Niche position, range position, and the distribution of abundance.
@@ -126,29 +130,29 @@ Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernes
 
 ### Science Communication
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
-*Elita Baldridge*. How technology can help scientists with chronic illnesses (or Technology FTW!) Jabberwocky Ecology, 13 October 2014. *http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//*
+*Elita Baldridge*. How technology can help scientists with chronic illnesses (or Technology FTW!) Jabberwocky Ecology, 13 October 2014. <http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//>
 
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
-*Elita Baldridge*. I am a graduate student. I have fibromyalgia. Jabberwocky Ecology, 13 January 2014. *http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/*
+*Elita Baldridge*. I am a graduate student. I have fibromyalgia. Jabberwocky Ecology, 13 January 2014. <http://jabberwocky.weecology.org/2014/01/13/i-am-a-graduate-student-i-have-fibromyalgia/>
 
 >Guest post, PhD(isabled), http://phdisabled.wordpress.com/
-*Elita Baldridge*. Developing a mystery illness in grad school. PhD(isabled), 5 November 2013. *http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/*
+*Elita Baldridge*. Developing a mystery illness in grad school. PhD(isabled), 5 November 2013. <http://phdisabled.wordpress.com/2013/11/05/developing-a-mystery-illness-in-grad-school/>
  
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
-*Elita Baldridge*. Four basic skills areas for a macroecologist. Jabberwocky Ecology, 19 August 2013. *http://jabberwocky.weecology.org/2013/08/19/four-basic-skill-areas-for-a-macroecologist-guest-post/*
+*Elita Baldridge*. Four basic skills areas for a macroecologist. Jabberwocky Ecology, 19 August 2013. <http://jabberwocky.weecology.org/2013/08/19/four-basic-skill-areas-for-a-macroecologist-guest-post/>
 
 
 ### Data
 ####*MiscAbundanceDB*: Community abundance data for a variety of mostly vertebrate taxa.  
 >Available on figshare at the following links:    
-*Metadata*: http://dx.doi.org/10.6084/m9.figshare.95841  
-*Sites table*: http://dx.doi.org/10.6084/m9.figshare.95842x  
-*Main data table*: http://dx.doi.org/10.6084/m9.figshare.95843x  
-*Citations table*: http://dx.doi.org/10.6084/m9.figshare.95844
+*Metadata*: <http://dx.doi.org/10.6084/m9.figshare.95841>  
+*Sites table*: <http://dx.doi.org/10.6084/m9.figshare.95842x>  
+*Main data table*: <http://dx.doi.org/10.6084/m9.figshare.95843x>  
+*Citations table*: <http://dx.doi.org/10.6084/m9.figshare.95844>
 
 
 ### Code
-####GitHub repositories at https://github.com/embaldridge
+####GitHub repositories at <https://github.com/embaldridge>
 
 Awards & Honors
 --------------------------
@@ -160,9 +164,11 @@ Skills
 SQL- SQLite & postgres
 
 ###Programming
->Python (primary language)
-Git
-Markdown   
+>Python (primary language)  
+Git  
+Markdown  
+LaTeX   
 Bash  
+R  
 Visual Basic  
-R
+
