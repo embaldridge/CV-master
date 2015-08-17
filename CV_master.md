@@ -88,6 +88,8 @@ Ecoinformatics
 ### Publications
 [OA]: The published paper is open access (or at least free to read)
 [OA version]: Link to an open or free version of the paper if the published version is not open access
+*E. Baldridge*, X. Xiao, E.P. White. 2015. An extensive comparison of species-abundance distribution models. *preprint, bioRxiv* [OA]
+
 White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6(2): 1–10. [OA] *http://library.queensu.ca/ojs/index.php/IEE/article/view/4608/4898* 
 
 *(+: Authors contributed equally to the work.)*
@@ -113,13 +115,16 @@ White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+.
 *Elita Baldridge* & Rob Channell.  Effects of environmental conditions and distance from the geographic range center on the abundance of avian species.
 
 ### Posters
+>Ecologial Society of America 2015 Meeting, Baltimore MD
+*Elita Baldridge* & Ethan White. Ecologist in silico: Facilitating access for chronically ill/disabled ecologists. [OA] <http://files.figshare.com/2201245/ESA_2015.pdf>
+
 >Gordon Research Conference 2014 "Unifying Ecology Across Scales", Boston MA  
-Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernest. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles. Presented by Morgan Ernest  
+Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernest. An Amniote Life History Database to Perform Comparative Analyses with Birds, Mammals, and Reptiles. Presented by Morgan Ernest  [OA]
 <http://files.figshare.com/1587021/Ernest_Gordon_2014.pptx>
 
 
 >Ecological Society of America 2012 Meeting, Portland OR  
-*Elita Baldridge*, Nathan Myrhvold, and Morgan Ernest.  Macroecological life-history trait database for birds, mammals, and reptiles.
+*Elita Baldridge*, Nathan Myrhvold, and Morgan Ernest.  Macroecological life-history trait database for birds, mammals, and reptiles. [OA]
 <http://files.figshare.com/98378/BaldridgeESA2012_poster.pdf>
 
 >Research & Creative Activities Week 2010, Fort Hays State University, Hays KS  
@@ -128,7 +133,16 @@ Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernes
 >Research & Creative Activities Week 2009, Fort Hays State University, Hays KS  
 *Elita Baldridge*.  Nested Subsets: A pattern of community assembly.
 
+### Service
+Outreach Coordinator, Ecological Society of American Open Science section, 2015-2016.
+
 ### Science Communication
+>Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
+*Elita Baldridge*.External challenges of chronic illness (in graduate school). Jabberwocky Ecology. 6 July 2015. <http://jabberwocky.weecology.org/2015/07/06/external-challenges-of-chronic-illness-in-graduate-school/>
+
+>Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
+*Elita Baldridge*.Successfully completing a dissertation with a chronic illness.  Jabberwocky Ecology, 25 May 2015. <http://jabberwocky.weecology.org/2015/05/25/successfully-completing-a-dissertation-with-a-chronic-illness/>
+
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
 *Elita Baldridge*. How technology can help scientists with chronic illnesses (or Technology FTW!) Jabberwocky Ecology, 13 October 2014. <http://jabberwocky.weecology.org/2014/10/13/how-technology-can-help-scientists-with-chronic-illnesses-or-technology-ftw//>
 
