@@ -88,7 +88,7 @@ Ecoinformatics
 ### Publications
 [OA]: The published paper is open access (or at least free to read)
 [OA version]: Link to an open or free version of the paper if the published version is not open access
-*E. Baldridge*, X. Xiao, E.P. White. 2015. An extensive comparison of species-abundance distribution models. *preprint, bioRxiv* [OA]
+*E. Baldridge*, X. Xiao, E.P. White. 2015. An extensive comparison of species-abundance distribution models. [OA] *preprint, bioRxiv* http://dx.doi.org/10.1101/024802  
 
 White, E.P, *E. Baldridge*+, Z.T. Brym+, K.J. Locey+, D.J. McGlinn+, S.R. Supp+. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6(2): 1–10. [OA] *http://library.queensu.ca/ojs/index.php/IEE/article/view/4608/4898* 
 
