@@ -1,12 +1,12 @@
 <center>Elita Baldridge</center>
 ===========================================
 <center>Email: [elita.baldridge@weecology.org](mailto:elita.baldridge@weecology.org)
-<center>Twitter: [@elitabaldridge](https://twitter.com/elitabaldridge)  
+<center>Twitter: [@elitabaldridge](https://twitter.com/elitabaldridge)
 <center>Website: [http://elitabaldridge.org](http://elitabaldridge.org)
 
 ---------
 > Utah State University, Logan UT; 2015   
-*Ph.D. Ecology* 
+*Ph.D., Ecology*   
 Dissertation title: A data-intensive assessment of the species-abundance distribution  
 https://github.com/weecology/sad-comparison   
 Advisor:  Dr. Ethan White
