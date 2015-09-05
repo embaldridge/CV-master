@@ -1,8 +1,8 @@
 <center>Elita Baldridge</center>
 ===========================================
 <center>Email: [elita.baldridge@weecology.org](mailto:elita.baldridge@weecology.org)
-<center>Twitter: [@elitabaldridge](https://twitter.com/elitabaldridge)
-<center>Website: [http://weecology.org/people/elitabaldridge](http://weecology.org/people/elitabaldridge)
+<center>Twitter: [@elitabaldridge](https://twitter.com/elitabaldridge)  
+<center>Website: [http://elitabaldridge.org](http://elitabaldridge.org)
 
 ---------
 > Utah State University, Logan UT; 2015   
@@ -139,6 +139,9 @@ Nathan Myrhvold, *Elita Baldridge*, Benjamin Chan, Dan Freeman, and Morgan Ernes
 Outreach Coordinator, Ecological Society of American Open Science section, 2015-2016.
 
 ### Science Communication
+>Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
+*Elita Baldridge*.Sciencing with a chronic illness: Tips, tricks, & technology. Jabberwocky Ecology. 31 August 2015. <http://jabberwocky.weecology.org/2015/08/31/sciencing-with-a-chronic-illness-tips-tricks-technology/>
+
 >Guest post, Jabberwocky Ecology,http://jabberwocky.weecology.org/
 *Elita Baldridge*.External challenges of chronic illness (in graduate school). Jabberwocky Ecology. 6 July 2015. <http://jabberwocky.weecology.org/2015/07/06/external-challenges-of-chronic-illness-in-graduate-school/>
 
